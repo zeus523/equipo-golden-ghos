@@ -1,5 +1,5 @@
 <?php
-
+// aqui se debe cambiar para la 4ta firma
 $conexion = new mysqli("localhost", "root", "", "registro_integrantes");
 
 if ($conexion->connect_error) {
